@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm currently studying Engineering in Computer Science and Technology on Tec De Monterrey😎<br>🌮 I'm from Mexico and I really love tacos 🤤<br>🌱 I'm currently learning Prolog, Racket, Mathlab and Full-stack🤓<br>🔭 I’m currently working on a web page from a school project <br>🤔 I’m looking for help with algorithms in C++ and videogames dev 🕹️<br>💬 Ask me about MySQL and Web development 💻<br>👯 I’m looking to collaborate on a videogame dev project 📺<br>📫 How to reach me: A01352033@tec.mx
+🏫 I'm currently studying Engineering in Computer Science and Technology on Tec De Monterrey😎<br>🌮 I'm from Mexico and I really love tacos 🤤<br>🌱 I'm currently learning Prolog, Racket, Mathlab and Full-stack🤓<br>🔭 I’m currently working on a web page from a school project <br>🤔 I’m looking for help with algorithms in C++ and videogames dev 🕹️<br>💬 Ask me about MySQL and Web development 💻<br>👯 I’m looking to collaborate on a videogame dev project 📺<br>📫 How to reach me: manuelvillalpandol@hotmail.com
 
 
 ## 🌐 Socials:
